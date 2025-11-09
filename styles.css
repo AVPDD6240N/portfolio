@@ -650,7 +650,7 @@ body{
 }
 
 .light-mode .community-card .icon{
-    color:var(--dark);
+    color:dark blue;
 }
 
 
